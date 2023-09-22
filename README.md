@@ -6,7 +6,7 @@ Top Performers in Formula 1
 <b>Technology Used- </b>
 
 ![image](https://github.com/MeghP99/Forumla1/assets/87923113/5063fb6f-c5aa-44fd-97c5-5a995f0458fb)
-![image](https://github.com/MeghP99/Forumla1/assets/87923113/dd241125-df77-4340-917b-2e354e9265c8
+![image](https://github.com/MeghP99/Forumla1/assets/87923113/7d4c9b1c-a9df-4045-862d-3db6affeb4f9)
 
 STEPS:
 1) Create Azure Storage Account with Hierarchy to enable Data Lake<br />
