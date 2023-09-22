@@ -3,12 +3,16 @@ Big Data Analysis:
 
 Top Performers in Formula 1
 
-<b>Technology Used- </b>
+#### <b>Technology Used- </b>
 
 ![image](https://github.com/MeghP99/Forumla1/assets/87923113/5063fb6f-c5aa-44fd-97c5-5a995f0458fb)
 ![image](https://github.com/MeghP99/Forumla1/assets/87923113/7d4c9b1c-a9df-4045-862d-3db6affeb4f9)
 
-STEPS:
+#### <b> Data Pipeline Architecture-</b>
+
+![image](https://github.com/MeghP99/Forumla1/assets/87923113/df85c2ce-b7db-4e03-a921-5c6f837a34e8)
+
+**STEPS:**
 1) Create Azure Storage Account with Hierarchy to enable Data Lake<br />
 2) Create Databricks Resoruce and create a single node cluster with 4 core, 14gb Mem (Cheapest option)<br />
 3) Connect Data lake to Data bricks using following steps:</p>
@@ -31,7 +35,4 @@ STEPS:
 <p>&nbsp;</p>
 
 
-<b> Data Pipeline Architecture-</b>
-
-![image](https://github.com/MeghP99/Forumla1/assets/87923113/df85c2ce-b7db-4e03-a921-5c6f837a34e8)
 
